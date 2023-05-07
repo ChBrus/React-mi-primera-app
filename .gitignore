@@ -24,3 +24,4 @@ yarn-error.log*
 
 #Intento de crear juego
 /src/game.js
+README.md
