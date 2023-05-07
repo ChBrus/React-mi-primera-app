@@ -18,6 +18,11 @@ function App() {
           Learn React
         </a>
       </header>
+      <div className='App-msg'>
+        <p>
+          Hola mamá, ya sé utilizar react :D
+        </p>
+      </div>
     </div>
   );
 }
